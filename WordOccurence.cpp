@@ -1,7 +1,6 @@
 /*
  *   Linus Gordon
  *   February 3, 2016
- *   Annkissam Internship Question
  *
  *   The purpose of this program is to sort words and their frequencies from
  *   a paragraph given as input.
